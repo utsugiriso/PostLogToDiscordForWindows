@@ -7,5 +7,6 @@
 
 未だにPowerShell使わずにログをtailする方法がわからない...なお、FileSytemWatcherではいつものごとくうまくいかない模様
 
-![image](https://user-images.githubusercontent.com/4087776/82210227-9a620980-9949-11ea-85fa-206ee6c337b0.png)
+## 見た目
+![image](https://user-images.githubusercontent.com/4087776/82210227-9a620980-9949-11ea-85fa-206ee6c337b0.png)  
 メッセージPrefixのところに上記のようなフォーマットでDiscordのユーザーIDをコピペするとメンションできます
