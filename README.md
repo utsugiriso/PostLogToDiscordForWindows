@@ -1,0 +1,2 @@
+# PostLogToDiscordForWindows
+ログファイルをtailして、正規表現でフィルターして、Discordにぶん投げるWindowsアプリ
